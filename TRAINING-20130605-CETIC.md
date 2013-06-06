@@ -6,4 +6,5 @@ New gitters:
 
  * [Your name here](http://github.com/USERNAME)
  * [Souleymane Sidibé: souleymane.sidibe01@gmail.com] (http://github.com/soulesidibe)
+ * [Amadou Bassirou TAMBEDOU](http://github.com/btambedou)
  
