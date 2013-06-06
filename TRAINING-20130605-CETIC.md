@@ -8,3 +8,4 @@ New gitters:
  * [Souleymane Sidibé: souleymane.sidibe01@gmail.com] (http://github.com/soulesidibe)
  * [Ndour Stephane](https://github.com/sndour)
  * [Ndiereby DIATTA](http://github.com/ndiereby)
+ * [Sheikhu](https://www.github.com/sheikhu)
