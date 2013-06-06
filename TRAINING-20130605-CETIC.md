@@ -5,4 +5,4 @@ Speaker: Thomas Sarlandie aka [sarfata](http://twitter.com/sarfata/)
 New gitters:
 
  * [Your name here](http://github.com/USERNAME)
- 
+ * [Ndour Stephane](https://github.com/sndour)
