@@ -9,3 +9,4 @@ New gitters:
  * [Ndour Stephane](https://github.com/sndour)
  * [Ndiereby DIATTA](http://github.com/ndiereby)
  * [Sheikhu](https://www.github.com/sheikhu)
+ * [Eldji elhadj](http://github.com/Eldji)
