@@ -10,3 +10,4 @@ New gitters:
  * [Eldji elhadj](http://github.com/Eldji)
  * [Jean-Marie PREIRA](http://github.com/jmpreira)
  * [Amadou Bassirou TAMBEDOU](http://github.com/btambedou)
+ * [Christopher Yann Moussaba: ymoussaba@peopleinput.com] (http://github.com/ymoussaba)
